@@ -36,7 +36,7 @@ cmd({
             desc: "text to speech.",
             category: "downloader",
             filename: __filename,
-            use: '<Hii,this is Secktor>',
+            use: '<Hii,this is SONIC-MD>',
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply('Please give me Sentence to change into audio.')
@@ -111,7 +111,7 @@ cmd({
                 if (infoYt.videoDetails.lengthSeconds >= videotime) return citel.reply(`❌ Video file too big!`);
                 let titleYt = infoYt.videoDetails.title;
                 let randomName = getRandom(".mp4");
-                citel.reply('🧚‍♂️┃ꜱᴏɴɪᴄ ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ᴠɪᴅᴇᴏ...')
+                citel.reply('💃┃ꜱᴏɴɪᴄ ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴠɪᴅᴇᴏ')
                 const stream = ytdl(urlYt, {
                         filter: (info) => info.itag == 22 || info.itag == 18,
                     })
@@ -129,7 +129,7 @@ cmd({
                         jpegThumbnail: log0,
                         mimetype: 'video/mp4',
                         fileName: `${titleYt}.mp4`,
-                        caption: ` 💖 ᴛɪᴛʟᴇ : ${titleYt}\n\n 💃 ꜰɪʟᴇ ꜱɪᴢᴇ : ${fileSizeInMegabytes} MB\n\n 💛 ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴏɴɪᴄ-ᴍᴅ\n\n 🧚‍♂️ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋᴀʟɪɴᴅᴜ`,
+                        caption: `💖 ᴛɪᴛʟᴇ : ${titleYt}\n\n 💃 ꜰɪʟᴇ ꜱɪᴢᴇ : ${fileSizeInMegabytes} MB\n\n 💛 ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ʙʏ ꜱᴏɴɪᴄ-ᴍᴅ\n\n 🧚‍♂️ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋᴀʟɪɴᴅᴜ`,
                         headerType: 4,
                         contextInfo: {
                             externalAdReply: {
@@ -146,7 +146,7 @@ cmd({
                  Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
                  return fs.unlinkSync(`./${randomName}`);
                 } else {
-                    citel.reply(`❌ ꜰɪʟᴇ ꜱɪᴢᴇ ʙɪɢɢᴇʀ ᴛʜᴀɴ 100ᴍʙ.`);
+                    citel.reply(`❌ File size bigger than 100mb.`);
                 }
                 return fs.unlinkSync(`./${randomName}`);      
 
@@ -171,16 +171,16 @@ cmd({
                     url: anu.thumbnail,
                 },
                 caption: `
-╭───────────────◆
-│🦸‍♂️ ${tlang().title} 
-│  *ꜱᴏɴɪᴄ-ʏᴏᴜᴛᴜʙᴇ-ᴘʟᴀʏᴇʀ* 🦚
-│🦸‍♂️ *ᴛɪᴛʟᴇ:* ${anu.title}
-│🦸‍♂️ *ᴅᴜʀᴀᴛɪᴏɴ:* ${anu.timestamp}
-│🦸‍♂️ *ᴠɪᴇᴡᴇʀꜱ:* ${anu.views}
-│🦸‍♂️ *ᴜᴘʟᴏᴀᴅᴇᴅ:* ${anu.ago}
-│🦸‍♂️ *ᴀᴜᴛʜᴏʀ:* ${anu.author.name}
-╰────────────────◆
-⦿ *ᴜʀʟ* : ${anu.url}
+╭───────────────◆ 
+ │🦸‍♂️ ${tlang().title}  
+ │  *ꜱᴏɴɪᴄ-ʏᴏᴜᴛᴜʙᴇ-ᴘʟᴀʏᴇʀ* 🦚 
+ │🦸‍♂️ *ᴛɪᴛʟᴇ:* ${anu.title} 
+ │🦸‍♂️ *ᴅᴜʀᴀᴛɪᴏɴ:* ${anu.timestamp} 
+ │🦸‍♂️ *ᴠɪᴇᴡᴇʀꜱ:* ${anu.views} 
+ │🦸‍♂️ *ᴜᴘʟᴏᴀᴅᴇᴅ:* ${anu.ago} 
+ │🦸‍♂️ *ᴀᴜᴛʜᴏʀ:* ${anu.author.name} 
+ ╰────────────────◆ 
+ ⦿ *ᴜʀʟ* : ${anu.url}
 `,
                 footer: tlang().footer,
                 headerType: 4,
@@ -301,7 +301,7 @@ cmd({
             if (infoYt.videoDetails.lengthSeconds >= videotime) return citel.reply(`❌ Video file too big!`);
             let titleYt = infoYt.videoDetails.title;
             let randomName = getRandom(".mp3");
-            citel.reply('🧚‍♂️┃ꜱᴏɴɪᴄ ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ꜱᴏɴɢ...')
+            citel.reply('🧚‍♂️┃ꜱᴏɴɪᴄ ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ʏᴏᴜʀ ꜱᴏɴɢ ')
             const stream = ytdl(anu.url, {
                     filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
                 })
@@ -488,269 +488,7 @@ cmd({
 
     }
 )
-     //---------------------------------------------------------------------------
-/*cmd({
-            pattern: "fb",
-            desc: "Downloads fb videos  .",
-            category: "downloader",
-            filename: __filename,
-            use: '<add fb url.>'
-        },
 
-        async(Void, citel, text) => {
-          if(!text) return citel.reply(`*_Please Give me Facebook Video Url_*`);
-
-	
-	
-	
-	const {  fbdl1, fbdl2 } = require('vihangayt-fbdl')
-
-let res = await fbdl1(text)
-//citel.reply("url :" +res.meta.title+"\n Duration "+ res.meta.duration);
-// console.log(res)
-let vurl=res.url[0].url;
-
-    let data  ="*Video Name       :* "+ res.meta.title ;
-	data +="\n*Video Duration : *" + res.meta.duration ;
-	data +="\n*Video Link     :* "+  vurl;
-
-                        let buttonMessage = {
-                        video: {url:vurl},
-                        mimetype: 'video/mp4',
-                        fileName: res.meta.title+`.mp4`,
-                        caption : "    *FACEBOOK DOWNLOADER*  \n"+data
-                        
-                    }
-                 Void.sendMessage(citel.chat, buttonMessage, { quoted: citel });
-
-
-}
-)*/
-
-//---------------------------------------------------------------------------
-
-async function tiktokdl (url) {
-    const gettoken = await axios.get("https://tikdown.org/id");
-    const $ = cheerio.load(gettoken.data);
-    const token = $("#download-form > input[type=hidden]:nth-child(2)").attr("value");
-    const param = {
-        url: url,
-        _token: token,
-    };
-    const { data } = await axios.request("https://tikdown.org/getAjax?", {
-        method: "post",
-        data: new URLSearchParams(Object.entries(param)),
-        headers: {
-            "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
-            "user-agent": "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36",
-        },
-    });
-    var getdata = cheerio.load(data.html);
-    if (data.status) {
-        return {
-            status: true,
-            thumbnail: getdata("img").attr("src"),
-            video: getdata("div.download-links > div:nth-child(1) > a").attr("href"),
-            audio: getdata("div.download-links > div:nth-child(2) > a").attr("href"),
-        };
-    } else return { status: false };
-};
-
-
-
-
-//---------------------------------------------------------------------------
-
-cmd({
-            pattern: "tiktok",
-	    alias :  ['tt','ttdl'],
-            desc: "Downloads Tiktok Videos Via Url.",
-            category: "downloader",
-            filename: __filename,
-            use: '<add tiktok url.>'
-        },
-
-        async(Void, citel, text) => {
- if(!text) return await citel.reply(`*Uhh Please, Provide me tiktok Video Url*\n*_Ex .tiktok https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531_*`);
- let txt = text ? text.split(" ")[0]:'';
- if (!/tiktok/.test(txt)) return await citel.reply(`*Uhh Please, Give me Valid Tiktok Video Url!*`);
- const { status ,thumbnail, video, audio } = await tiktokdl(txt)
- console.log("url : " , video  ,"\nThumbnail : " , thumbnail ,"\n Audio url : " , audio )
- if (status) return await Void.sendMessage(citel.chat, {video : {url : video } , caption : Config.caption } , {quoted : citel });
- else return await citel.reply("Error While Downloading Your Video") 
-})
-//---------------------------------------------------------------------------
-/*
-cmd({
-            pattern: "tiktok",
-	          alias :  ['tt','ttdl'],
-            desc: "Downloads Tiktok Videos Via Url.",
-            category: "downloader",
-            react :'🥳',
-            filename: __filename,
-            use: '<add tiktok url.>'
-        },
-
-        async(Void, citel, text) => {
-if(!text) return await citel.reply(`*Uhh Please, Provide me tiktok Video Url*\n*_Ex .tiktok https://www.tiktok.com/@dakwahmuezza/video/7150544062221749531_*`);
-let txt = text ? text.split(" ")[0]:'';
-const ttdl =  require("tiktok-video-downloader");
-if (!txt.includes("tiktok.com")) return  citel.reply(`*Uhh Please, Give me Valid Tiktok Video Url!*`);
-try {
-  let res = await ttdl.getInfo(txt)
-    console.log(res);
-let data  =" *User Name :* "+ res.author.username;
-    data +="\n *Video Views :* " + res.video.views;
-    data +="\n *Video Comments :* " + res.video.comments;
-    data +="\n *Video Sound :* " + res.backsound.name;
-    //data +="\n Video Link     : "+  res.video.url.no_wm;
-    data += "\n"+Config.caption;
-let buttonMessage =
-    {
-              video: {url:res.video.url.no_wm},
-              mimetype: 'video/mp4',
-              caption : "\t    *TIKTOK DOWNLOADER*  \n"+data
-     } ; return await Void.sendMessage(citel.chat, buttonMessage , {quoted : citel });
-
-} catch (error) {return citel.reply("Error While Downloading Your Video") }
-
-})
-*/
-//---------------------------------------------------------------------------
-cmd({
-            pattern: "facebook",
-	    alias :  ['fb','fbdl'],
-            desc: "Downloads fb videos  .",
-            category: "downloader",
-            filename: __filename,
-            use: '<add fb url.>'
-        },
-
-        async(Void, citel, text) => {
-if(!text) return citel.reply(`*_Please Give me Facebook Video Url_*`);
-fbInfoVideo.getInfo(text)
-  .then(info =>{
-let vurl=info.video.url_video;
-// citel.reply('name:-------'+info.video.title);
-
-      let data  ="*Video Name     :* "+  info.video.title;
-	data +="\n*Video Views    :* "+  info.video.view;
-	data +="\n*Video Comments :* "+  info.video.comment;
-	data +="\n*Video Likes    :* "+info.video.reaction.Like ;
-	//data +="\n*Video Link     :* "+  vurl;
-//citel.reply("    FACEBOOK DOWNLOADER  \n"+data)
-//console.log(info);
-	data +=Config.caption ;
-                        let buttonMessage = {
-                        video: {url:vurl},
-                        mimetype: 'video/mp4',
-                        fileName: info.video.title+`.mp4`,
-                        caption :"     *FACEBOOK DOWNLOADER*  \n"+data
-                        
-                    }
-                 Void.sendMessage(citel.chat, buttonMessage, { quoted: citel });
-
-
-
-})
-  .catch(err => {citel.reply("Error, Video Not Found\n *Please Give Me A Valid Url*");
-			console.error(err);})
-}
-)
-
-//---------------------------------------------------------------------------
-
-cmd({
-            pattern: "apk",
-            desc: "Downloads apks  .",
-            category: "downloader",
-            filename: __filename,
-            use: '<add sticker url.>',
-        },
-
-        async(Void, citel, text) => {
-        if(!text )return citel.reply("*_Give me App Name_*");
-
-	const getRandom = (ext) => { return `${Math.floor(Math.random() * 10000)}${ext}`; };
-	let randomName = getRandom(".apk");
-	const filePath = `./${randomName}`;     // fs.createWriteStream(`./${randomName}`)
-        const {  search , download } = require('aptoide-scraper')
-	let searc = await search(text);          //console.log(searc);
-	let data={};
-	if(searc.length){ data = await download(searc[0].id); }
-	else return citel.reply("*_APP not Found, Try Other Name_*");
-	
-	
-	const apkSize = parseInt(data.size);
-	if(apkSize > 100) return citel.reply(`❌ File size bigger than 150mb.`);
-       const url = data.dllink;
-	 let  inf  ="*App Name :* " +data.name;
-         inf +="\n*App id        :* " +data.package;
-         inf +="\n*Last Up       :* " +data.lastup;
-         inf +="\n*App Size     :* " +data.size;
-        // inf +="\n*App Link     :* " +data.dllink;
-	inf +="\n\n "+ Config.caption
-         
-
-axios.get(url, { responseType: 'stream' })
-  .then(response => {
-    const writer = fs.createWriteStream(filePath);
-    response.data.pipe(writer);
-
-    return new Promise((resolve, reject) => {
-      writer.on('finish', resolve);
-      writer.on('error', reject);
-    });
-  }).then(() => {
-	
-	let buttonMessage = {
-                        document: fs.readFileSync(filePath),
-                        mimetype: 'application/vnd.android.package-archive',
-                        fileName: data.name+`.apk`,
-                        caption : inf
-                        
-                    }
-                  Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
-
-    console.log('File downloaded successfully');
-
-  
-    fs.unlink(filePath, (err) => {
-      if (err) { console.error('Error deleting file:', err); } else { console.log('File deleted successfully'); } });
-  }) .catch(error => {
-	fs.unlink(filePath)
-    return citel.reply('*_Apk not Found, Sorry_*')//:', error.message);
-  });
-	
-	
-	
-	
-	
-	
-	
-	/*
-  if(!text) return citel.reply(`*_Please Give Me App Name_*`);
-let searc = await search(text);
-//console.log(searc);
-let data = await download(searc[0].id);
-//console.log(data);
-
-     let  inf  ="App Name : " +data.name;
-         inf +="\n*App id        :* " +data.package;
-         inf +="\n*App id        :* " +data.lastup;
-         inf +="\n*App Size     :* " +data.size;
-        // inf +="\n*App Link     :* " +data.dllink;
-         
-                        let buttonMessage = {
-                        document: {url : data.dllink},
-                        mimetype: 'application/vnd.android.package-archive',
-                        fileName: data.name+`.apk`,
-                        caption : inf
-                        
-                    }
-                 Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
-*/}
-)
   //---------------------------------------------------------------------------
 cmd({
         pattern: "ytdoc",
