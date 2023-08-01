@@ -4,7 +4,7 @@
             category: "downloader",
             filename: __filename,
             use: '<add fb url.>'
-             react: "🕑",
+             react: "💣",
         },
 
         async(Void, citel, text) => {
@@ -45,7 +45,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<add fb url.>'
-            react: "🕑",
+            react: "💣",
         },
 
         async(Void, citel, text) => {
