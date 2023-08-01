@@ -25,7 +25,7 @@ var dlsize = 1000 // 1000mb
             category: "downloader",
             filename: __filename,
             use: '<add sticker url.>'
-             react: "🕑",
+             react: "🧚‍♂️",
         },
         async(Void, citel, text) => {
 		if (!text) return await citel.reply("_Enter a tg sticker url_\nEg: .tgs https://t.me/addstickers/Oldboyfinal\nKeep in mind that there is a chance of ban if used frequently");
@@ -70,7 +70,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<Hii,this is SONIC-MD>',
-            react: "🕑",
+            react: "🙊",
          },
         async(Void, citel, text) => {
             if (!text) return citel.reply('Please give me Sentence to change into audio.')
@@ -132,7 +132,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<faded-Alan Walker>',
-            react: "🕑",
+            react: "🎞️",
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
@@ -195,7 +195,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<faded-Alan walker.>',
-            react: "🕑",
+            react: "🔍",
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply(`Use ${command} Back in Black`);
@@ -234,7 +234,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<ringtone name>',
-            react: "🕑",
+            react: "📍",
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply(`Example: ${prefix}ringtone back in black`)
@@ -293,7 +293,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<url of mediafire>',
-            react: "🕑",
+            react: "🧪",
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply(`Give link ${tlang().greet}`);
@@ -327,7 +327,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<text>',
-            react: "🕑", 
+            react: "🎶", 
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
