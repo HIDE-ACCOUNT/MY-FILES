@@ -98,6 +98,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<faded-Alan Walker>',
+            react: "🕑",
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
@@ -160,6 +161,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<faded-Alan walker.>',
+            react: "🕑",
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply(`Use ${command} Back in Black`);
@@ -198,6 +200,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<ringtone name>',
+            react: "🕑",
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply(`Example: ${prefix}ringtone back in black`)
@@ -256,6 +259,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<url of mediafire>',
+            react: "🕑",
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply(`Give link ${tlang().greet}`);
@@ -289,6 +293,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<text>',
+            react: "🕑", 
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
