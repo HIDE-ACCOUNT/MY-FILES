@@ -670,7 +670,7 @@ cmd({
                 let yts = require("secktor-pack")
                 let search = await yts(text);
                 let i = search.all[1] ;
-                let cap = \t *SONIC-MD-YT-SEARCH*   \n\n💃 TITLE : " + i.title + "\n💃 URL : " + i.url +"\n💃 DESCRIPTION : " + i.timestamp +"\n💃 VIEWS : "+i.views +"\n💃 UPLOADED : " +i.ago +"\n💃 AUTHOR : "+i.author.name+"\n\n\n💛 REPLY 1 TO VIDEO \n💛 REPLY 2 TO AUDIO"" ;
+                let cap = \t SONIC-MD-YT-SEARCH \n\n 💃 TITLE : " + i.title + "\n 💃 URL : " + i.url +"\n 💃 DESCRIPTION : " + i.timestamp +"\n 💃 VIEWS : "+i.views +"\n 💃 UPLOADED : " +i.ago +"\n 💃 AUTHOR : "+i.author.name+"\n\n\n 💛 REPLY 1 TO VIDEO \n 💛 REPLY 2 TO AUDIO" ;
                 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap });
            
            
@@ -963,7 +963,7 @@ async(Void, citel, text) => {
 if (!text) return await citel.reply(`*_Ohh PLease, Give Me Song Name_*`);
 let search = await yts(text)
 let i = search.all[1] ;
-let cap = "\t *SONIC-MD-YT-SEARCH*   \n\n💃 TITLE : " + i.title + "\n💃 URL : " + i.url +"\n💃 DESCRIPTION : " + i.timestamp +"\n💃 VIEWS : "+i.views +"\n💃 UPLOADED : " +i.ago +"\n💃 AUTHOR : "+i.author.name+"\n\n\n💛 REPLY 1 TO VIDEO \n💛 REPLY 2 TO AUDIO" ;
+let cap = "\t *SONIC-MD-YT-SEARCH*   \n\n 💃 TITLE : " + i.title + "\n 💃 URL : " + i.url +"\n 💃 DESCRIPTION : " + i.timestamp +"\n 💃 VIEWS : "+i.views +"\n 💃 UPLOADED : " +i.ago +"\n 💃 AUTHOR : "+i.author.name+"\n\n\n 💛 REPLY 1 TO VIDEO \n 💛 REPLY 2 TO AUDIO" ;
 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap })
 })
 */
