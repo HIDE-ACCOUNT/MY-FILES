@@ -327,7 +327,7 @@ cmd({
             desc: "Downloads audio from youtube.",
             category: "downloader",
             filename: __filename,
-	    react: "📍"
+	    react: "🎶"
             use: '<text>',
         },
         async(Void, citel, text) => {
