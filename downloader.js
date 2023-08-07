@@ -26,7 +26,7 @@ cmd({
             desc: "Downloads telegram stickers.",
             category: "downloader",
             filename: __filename,
-	    react: "💜",
+	    react: "🧚‍♂️",
             use: '<add sticker url.>'
         },
         async(Void, citel, text) => {
@@ -71,7 +71,7 @@ cmd({
             desc: "text to speech.",
             category: "downloader",
             filename: __filename,
-	    react: "💜",
+	    react: "📍",
             use: '<Hii,this is SONIC-MD>',
         },
         async(Void, citel, text) => {
@@ -100,7 +100,7 @@ cmd({
         desc: "Gives descriptive info of query from youtube..",
         category: "downloader",
         filename: __filename,
-        react: "💜",
+        react: "🌹",
         use: '<yt search text>',
     },
     async(Void, citel, text) => {
@@ -135,7 +135,7 @@ cmd({
             category: "downloader",
             filename: __filename,
             use: '<faded-Alan Walker>',
-	    react: "💜",
+	    react: "🎞️",
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
@@ -149,7 +149,7 @@ cmd({
                 if (infoYt.videoDetails.lengthSeconds >= videotime) return citel.reply(`❌ Video file too big!`);
                 let titleYt = infoYt.videoDetails.title;
                 let randomName = getRandom(".mp4");
-                citel.reply('╭───────────────◆/n │🦸‍♂️ ${tlang().title}/n │  *ꜱᴏɴɪᴄ-ʏᴏᴜᴛᴜʙᴇ-ᴘʟᴀʏᴇʀ* 🦚/n │🦸‍♂️ *ᴛɪᴛʟᴇ:* ${anu.title}/n│🦸‍♂️ *ᴅᴜʀᴀᴛɪᴏɴ:* ${anu.timestamp}/n │🦸‍♂️ *ᴠɪᴇᴡᴇʀꜱ:* ${anu.views}/n │🦸‍♂️ *ᴜᴘʟᴏᴀᴅᴇᴅ:* ${anu.ago}/n│🦸‍♂️ *ᴀᴜᴛʜᴏʀ:* ${anu.author.name}/n╰────────────────◆/n/n ⦿ *ᴜʀʟ* : ${anu.url}')
+                citel.reply('╭───────────────◆\n│🎗️ ${tlang().title}\n│  *ꜱᴏɴɪᴄ-ʏᴏᴜᴛᴜʙᴇ-ᴘʟᴀʏᴇʀ* 🦚\n│🎗️ *ᴛɪᴛʟᴇ:* ${anu.title}\n│🎗️ *ᴅᴜʀᴀᴛɪᴏɴ:* ${anu.timestamp}\n│🎗️ *ᴠɪᴇᴡᴇʀꜱ:* ${anu.views}\n│🎗️ *ᴜᴘʟᴏᴀᴅᴇᴅ:* ${anu.ago}\n│🎗️ *ᴀᴜᴛʜᴏʀ:* ${anu.author.name}\n╰────────────────◆\n\n ⦿ *ᴜʀʟ* : ${anu.url}')
                 const stream = ytdl(urlYt, {
                         filter: (info) => info.itag == 22 || info.itag == 18,
                     })
@@ -197,7 +197,7 @@ cmd({
             desc: "Sends info about the query(of youtube video/audio).",
             category: "downloader",
             filename: __filename,
-	    react: "💜",
+	    react: "🙊",
             use: '<faded-Alan walker.>',
         },
         async(Void, citel, text) => {
