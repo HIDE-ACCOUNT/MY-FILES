@@ -1,5 +1,5 @@
 const { tlang, botpic, cmd, prefix, runtime, Config, formatp, fetchJson } = require('../lib');
-const apikey = ' botcahx api key ' ;
+const apikey = 'Tg2Lyda5' ;
 cmd({
   pattern: "xn",
   alias: ["xt"],
