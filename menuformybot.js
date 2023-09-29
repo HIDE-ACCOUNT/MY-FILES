@@ -127,7 +127,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "♣️",
 
             filename: __filename,
 
@@ -233,7 +233,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🌀",
 
             filename: __filename,
 
@@ -339,7 +339,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🛸",
 
             filename: __filename,
 
@@ -439,7 +439,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "♨️",
 
             filename: __filename,
 
@@ -553,7 +553,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🌹",
 
             filename: __filename,
 
@@ -651,7 +651,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🐞",
 
             filename: __filename,
 
@@ -743,7 +743,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🦩",
 
             filename: __filename,
 
@@ -845,7 +845,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🙆‍♂️",
 
             filename: __filename,
 
@@ -951,7 +951,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🦚",
 
             filename: __filename,
 
@@ -1049,7 +1049,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🦄",
 
             filename: __filename,
 
@@ -1156,7 +1156,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🐝",
 
             filename: __filename,
 
@@ -1247,7 +1247,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🌐",
 
             filename: __filename,
 
@@ -1340,7 +1340,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "👮‍♀️",
 
             filename: __filename,
 
@@ -1435,7 +1435,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🐾",
 
             filename: __filename,
 
@@ -1526,7 +1526,7 @@ cmd({
 
             category: "list",
 
-            react: "🧞‍♀️",
+            react: "🍡",
 
             filename: __filename,
 
@@ -1579,7 +1579,7 @@ cmd({
                 caption: `
 ┏━━━━━━━━━━━━━━━✦
 ┃ ┌╼╼╼╼╼╼╼╼╼╼●
-┃ │ *ᴀɪ ᴄᴏᴍᴍᴀɴᴅꜱ*
+┃ │ *ꜱᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ*
 ┃ ├╼╼╼╼╼╼╼╼╼╼●
 │ ᴀᴛᴛᴘ
 │ ꜱᴛɪᴄᴋᴇʀ
