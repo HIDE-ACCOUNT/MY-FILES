@@ -1,1 +1,290 @@
-MR-KALINDU;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0Q0Sk1RTWR4WG5kak5UVzRaZEc2S0tpcUcweUlhSTZsNk1MOFI2ZEZXRT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiU0d3SFJrSWREeUhwNythYTZzY2FWU1puUWJFTE82bHZMNGI2cXNWNFJnaz0ifX0sInNpZ25lZElkZW50aXR5S2V5Ijp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRRk9PeGZQSFVKS1lPY05Md0ZjNmQ1dzFaVlg0TytEZ0w2RWZKWDdDQTN3PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI4MnM5VjFlUC8vaG9YZnp2cElKbUh4SzZjbURNQ1hLaU04QnRWb29WbWhBPSJ9fSwic2lnbmVkUHJlS2V5Ijp7ImtleVBhaXIiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNOblc3anBKYVFMR2UrUXU0SkpRWUhzbkpncmlJeTV6OTI3dGFXK2gwMjQ9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlJ6TFJuYmEyOTdMcS9HeTJPWElybkZkLzdkUnoxM1VLcVIydkdiaGt2bnc9In19LCJzaWduYXR1cmUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJQdUxDUDI4WGRidERqWHhEN2MyNVR2bk5Ja0RXc0ZOYlFRaEc4N1JNaTA4N1R5eUoxeFlaQ3VSNkl0VTdDTEdzU3ZvTEpEemIzZ2hZRW9GeHR6NFZpQT09In0sImtleUlkIjoxfSwicmVnaXN0cmF0aW9uSWQiOjEzNSwiYWR2U2VjcmV0S2V5IjoiZU9IODdvRzkySzYvM0x4ODJsWFl6a09PSTZKTEJYSlRuNHdnVlNVSUFVRT0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOltdLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiaWNycnV0OTFSSzY5UzVTNThnNmtVUSIsInBob25lSWQiOiIzN2RhNzM1OC0yNzIyLTQ0MzYtODZmMy04NGQ2NjY2NmNhMzkiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUHVESzFpaGh2eGZCWmNjNXYrR21ncnZjMXZRPSJ9LCJyZWdpc3RlcmVkIjpmYWxzZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJGeFRwK0ZUQndud0dDOTR1RFpWbnZibitQVFk9In0sInJlZ2lzdHJhdGlvbiI6e30sImFjY291bnQiOnsiZGV0YWlscyI6IkNKZUw1UDRHRU9IRjFhZ0dHQW89IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InRiL0llRjc0UnMwdm1CeTV1WGQ0WjdGcFp1VGZDKyt1TjZwbTBISkw1Uzg9IiwiYWNjb3VudFNpZ25hdHVyZSI6InhNb08yb1BZeEtBdFk4Uk1kZVdXdkR6MHlwYWV1K2JjYU01TWFtakxLOUdyTUpWVjdLaWRJTXRTb1ZsRzIxbGtJZTk2NkhnREF2dVlnYTREbjV5Q0F3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiIzSGR1Y3ZINmN4ZHQzaUg5YXdkejRVMzBHTjFXZUdXbDdvU3BaMG44Yk8zdFJnZ1laK2FlSEppZW43NVBCS2s0V2FhSm5GdG0xb1hhOU1hTVpLOXFqZz09In0sIm1lIjp7ImlkIjoiOTQ3NjQ5Mzc5Njk6NjVAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi4bSL4bSAyp/Jqsm04bSF4bScLcqZ4bSAypnKjyJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5NDc2NDkzNzk2OTo2NUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJiVy95SGhlK0ViTkw1Z2N1YmwzZUdleGFXYmszd3Z2cmplcVp0QnlTK1V2In19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNjk1OTAwMzg4fQ==
+╭────《 𝐊𝚫𝐋𝚰𝚴𝐃𝐔 》─────⊷
+```│ ╭──────────────◆
+│ │ 〽️ ᴜꜱᴇʀ:- shehan vimukthi
+│ │ 🇱🇰 ʙᴏᴛ ɴᴀᴍᴇ:- ʀᴏᴡᴅʏ-ʙᴀʙʏ-ᴍᴅ
+│ │ 🍡 ᴍʏ ᴘʀᴇꜰɪx:- [ . ]
+│ │ 🧛‍♂️ ᴄʀᴇᴀᴛᴇʀ:- ᴍʀ-ᴋᴀʟɪɴᴅᴜ 
+│ │ 🍀 ᴍʏ ᴜᴘᴛɪᴍᴇ:- 30 m, 44 s
+│ │ 🌐 ᴍᴇᴍᴏʀʏ:- 34.87 GB/61.79 GB
+│ │ 🦀 ɴᴏᴡ ᴛɪᴍᴇ:- 18:17:33
+│ │ 🐝 ᴅᴀᴛᴇ:- 29/09/2023
+│ ╰──────────────◆
+╰───────────────⊷
+
+```╱▬▬▬▬▬▬▬╲🌿 *ʀᴇᴀᴄᴛɪᴏɴ* 🌿
+│ ᴘᴏᴋᴇ
+│ ʜᴜɢ
+│ ʜᴏʟᴅ
+│ ʜɪꜰɪ
+│ ʙɪᴛᴇ
+│ ʙʟᴜꜱʜ
+│ ᴘᴜɴᴄʜ
+│ ᴘᴀᴛ
+│ ᴋɪꜱꜱ
+│ ᴋɪʟʟ
+│ ʜᴀᴘᴘʏ
+│ ᴅᴀɴᴄᴇ
+│ ʏᴇᴇᴛ
+│ ᴡɪɴᴋ
+│ ꜱʟᴀᴘ
+│ ʙᴏɴᴋ
+│ ʙᴜʟʟʏ
+│ ᴄʀɪɴɢᴇ
+│ ᴄᴜᴅᴅʟᴇ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *Aɴɪᴍᴇ Pɪᴄꜱ* 🌿
+│ ᴡᴀɪꜰᴜ
+│ ɴᴀʀᴜᴛᴏ
+│ ɴᴇᴋᴏ
+│ ꜰᴏxɢɪʀʟ
+│ ᴀɴɪᴍᴇɴᴇᴡꜱ
+│ ʟᴏʟɪ
+│ ᴘᴏᴋᴇᴍᴏɴ
+│ ᴍᴀɴɢᴀ
+│ ᴀɴɪᴍᴇ
+│ ᴡᴀʟʟᴘᴀᴘᴇʀ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ɢᴇɴᴇʀᴀʟ* 🌿
+│ ʜᴇʟᴘ
+│ ʟɪꜱᴛ
+│ ᴏᴡɴᴇʀ
+│ ꜰɪʟᴇ
+│ ᴅᴇʟʙɢᴍ
+│ ᴀʟʟʙɢᴍ
+│ ᴀᴅᴅʙɢᴍ
+│ ᴅᴇᴠ
+│ ʀᴇᴘᴏ
+│ ʟɪɴᴋ
+│ ꜱᴛᴀᴛᴜꜱ
+│ ᴄᴘᴜ
+│ ʟᴇᴀᴅᴇʀʙᴏᴀʀᴅ
+│ ᴘɪɴɢ
+│ ᴀʟɪᴠᴇ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ᴏᴡɴᴇʀ* 🌿
+│ ᴘʟᴜɢɪɴꜱ
+│ ʀᴇᴍᴏᴠᴇ
+│ ɪɴꜱᴛᴀʟʟ
+│ ᴊᴏɪɴ
+│ ᴄᴏᴍᴍᴏɴ
+│ ᴅɪꜰꜰ
+│ ʙʟᴏᴄᴋ
+│ ᴜɴʙʟᴏᴄᴋ
+│ ᴊɪᴅ
+│ ᴀᴅᴅɴᴏᴛᴇ
+│ ϙʀ
+│ ꜱʜᴇʟʟ
+│ ᴇᴠᴀʟ
+│ ᴅᴇʟɴᴏᴛᴇ
+│ ᴅᴇʟᴀʟʟɴᴏᴛᴇꜱ
+│ ʙᴀɴ
+│ ᴀʟʟɴᴏᴛᴇꜱ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ᴛᴏᴏʟꜱ* 🌿
+│ ʀᴇꜱᴛᴀʀᴛ
+│ ᴜᴘᴅᴀᴛᴇ
+│ ᴜᴘᴅᴀᴛᴇɴᴏᴡ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ᴅᴏᴡɴʟᴏᴀᴅᴇʀ* 🌿
+│ ᴀᴀᴀ
+│ ᴅᴏᴡɴᴀᴘᴋ
+│ ʙʙʙ
+│ ᴛɢꜱ
+│ ɢᴅʀɪᴠᴇ
+│ ᴛᴛꜱ
+│ ᴠɪᴅᴇᴏ
+│ ᴀᴜᴅɪᴏ
+│ ꜱᴏᴜɴᴅ
+│ ʀɪɴɢᴛᴏɴᴇ
+│ ᴘɪɴᴛ
+│ ᴍᴇᴅɪᴀꜰɪʀᴇ
+│ ᴘʟᴀʏ
+│ ʏᴛꜱ
+│ ʏᴛᴍᴘ4
+│ ʏᴛᴍᴘ3
+│ ʏᴛᴅᴏᴄ
+│ ᴇꜱᴀɴᴀ
+│ ꜰᴍᴍᴏᴅ
+│ ɢɪᴛᴄʟᴏɴᴇ
+│ ɪᴏꜱ
+│ ɪᴏꜱᴛ
+│ ᴍᴏᴅᴡᴀ
+│ ɴᴀꜱᴀ
+│ ꜱꜱ
+│ ꜱꜱᴘ
+│ ꜱꜱᴅ
+│ ꜱᴇx
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ᴀᴜᴅɪᴏ* 🌿
+│ ʙᴀꜱꜱ
+│ ʙʟᴏᴡɴ
+│ ᴅᴇᴇᴘ
+│ ꜰᴀꜱᴛ
+│ ʀᴇᴠᴇʀꜱᴇ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ᴄᴏɴᴠᴇʀᴛᴇʀ* 🌿
+│ ᴘʜᴏᴛᴏ
+│ ꜰᴀɴᴄʏ
+│ ᴛɪɴʏ
+│ ᴛᴏᴀᴜᴅɪᴏ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ᴍɪꜱᴄ* 🌿
+│ ᴠᴠ
+│ ꜰʙ
+│ ᴛɪᴋᴛᴏᴋ
+│ ꜱᴇᴛᴡᴇʟᴄᴏᴍᴇ
+│ ꜱᴇᴛɢᴏᴏᴅʙʏᴇ
+│ ᴇxᴇᴄ
+│ ʀᴇᴀᴅᴍᴏʀᴇ
+│ ᴜᴘᴛɪᴍᴇ
+│ ᴡᴍ
+│ ᴘɪᴄᴋ
+│ ꜰʟɪᴘᴛᴇxᴛ
+│ ᴍᴘ4ꜰʀᴏᴍᴜʀʟ
+│ ᴇᴍɪx
+│ ᴄʜᴀᴛʙᴏᴛ
+│ ᴇʙɪɴᴀʀʏ
+│ ᴅʙɪɴᴀʀʏ
+│ ʙᴏᴛ
+│ ꜰɪɴᴅ
+│ ᴜɴʙᴀɴ
+│ ᴜʀʟ
+│ ᴛʀᴛ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ꜱᴛɪᴄᴋᴇʀ* 🌿
+│ ᴀᴛᴛᴘ
+│ ꜱᴛɪᴄᴋᴇʀ
+│ ᴄɪʀᴄʟᴇ
+│ ᴄʀᴏᴘ
+│ ʀᴏᴜɴᴅ
+│ ᴍᴇᴍᴇɢᴇɴ
+│ ᴀᴛᴛᴘ
+│ ᴛᴛᴘ
+│ ꜱᴛᴇᴀʟ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ʟᴏɢᴏ* 🌿
+│ ꜱʟɪᴄᴇ
+│ ɢʟᴏᴡ
+│ ɢɪᴛᴄʜ1
+│ ꜱᴛᴇᴀʟ
+│ ᴀᴠᴇɴɢᴇʀ
+│ ᴍᴀʀᴠᴇʟ
+│ ᴘʜᴜʙ
+│ ɢʟɪᴛᴄʜ
+│ ɢʟɪᴛᴄʜ2
+│ ɢʀᴀꜰɪᴛɪ
+│ ᴅᴇᴇᴘꜱᴇᴀ
+│ ʜᴏʀʀᴏʀ
+│ ᴡʜɪᴛᴇʙᴇᴀʀ
+│ ᴊᴏᴋᴇʀ
+│ ᴍᴇᴛᴀʟʟɪᴄ
+│ ꜱᴛᴇᴇʟ
+│ ʜᴀʀʀʏᴘᴏᴛᴛᴇʀ
+│ ᴜɴᴅᴇʀᴡᴀᴛᴇʀ
+│ ʟᴜxᴜʀʏ
+│ ɢʟᴜᴇ
+│ ꜰᴀʙʀɪᴄ
+│ ᴛᴏxɪᴄ
+│ ᴀɴᴄɪᴇɴᴛ
+│ ᴄʟᴏᴜᴅ
+│ ᴛʀᴀɴꜱꜰᴏʀᴍᴇʀ
+│ ᴛʜᴜɴᴅᴇʀ
+│ ꜱᴄɪꜰɪ
+│ ꜱᴀɴᴅ
+│ ʀᴀɪɴʙᴏᴡ
+│ ᴘᴇɴᴄɪʟ
+│ ɴᴇᴏɴ
+│ ᴍᴀɢᴍᴀ
+│ ʟᴇᴀᴠᴇꜱ
+│ ᴅɪꜱᴄᴏᴠᴇʀʏ
+│ ᴄʜʀɪꜱᴛᴍᴀꜱ
+│ ᴄᴀɴᴅʏ
+│ 1917
+│ ʙʟᴀᴄᴋᴘɪɴᴋ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ᴇᴅɪᴛᴏʀ* 🌿
+│ ᴀᴅ
+│ ᴊᴀɪʟ
+│ ᴜɴᴄᴏᴠᴇʀ
+│ ᴄʟᴏᴡɴ
+│ ᴍɴᴍ
+│ ᴘᴇᴛᴛ
+│ ɢʀᴇʏꜱᴄᴀʟᴇ
+│ ɪɴᴠᴇʀᴛ
+│ ʙʟᴜʀ
+│ ᴅʀɪᴘ
+│ ᴄᴏʟᴏʀɪꜰʏ
+│ ɢᴜɴ
+│ ᴡᴀɴᴛᴇᴅ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ꜰᴜɴ* 🌿
+│ ϙᴜᴇꜱᴛɪᴏɴ
+│ ᴛʀᴜᴛʜ
+│ ᴅᴀʀᴇ
+│ ᴊᴏᴋᴇ
+│ ᴊᴏᴋᴇ2
+│ ꜰᴀᴄᴛ
+│ ϙᴜᴏᴛᴇꜱ
+│ ᴅᴇꜰɪɴᴇ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *Aᴅᴠᴇʀᴛɪꜱᴇᴍᴇɴᴛꜱ* 🌿
+│ ᴀᴅᴠᴛ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *AI* 🌿
+│ ᴀɴᴏɴʏᴍꜱɢ
+│ ᴄʜᴀᴛ
+│ ɢᴘᴛ
+│ ᴅᴀʟʟᴇ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ɢʀᴏᴜᴘ* 🌿
+│ ɢᴅᴇꜱᴄ
+│ ɢɴᴀᴍᴇ
+│ ᴀɴᴛɪꜰᴀᴋᴇ
+│ ᴘᴅᴍ
+│ ᴡᴀʀɴ
+│ ɪɴᴠɪᴛᴇ
+│ ʀᴇꜱᴇᴛ
+│ ᴛᴀɢᴀʟʟ
+│ ᴋɪᴋ
+│ ɴᴜᴍ
+│ ʀᴇꜱᴇᴛᴡᴀʀɴ
+│ ᴘᴏʟʟ
+│ ᴘʀᴏꜰɪʟᴇ
+│ ʀᴀɴᴋ
+│ ᴘʀᴏᴍᴏᴛᴇ
+│ ᴅᴇᴍᴏᴛᴇ
+│ ᴋɪᴄᴋ
+│ ɢʀᴏᴜᴘ
+│ ɢᴘᴘ
+│ ᴛᴀɢ
+│ ᴛᴀɢᴀᴅᴍɪɴ
+│ ᴀᴅᴅ
+│ ᴅᴇʟ
+│ ᴄʜᴇᴄᴋᴡᴀʀɴ
+│ ʙʀᴏᴀᴅᴄᴀꜱᴛ
+│ ᴀɴᴛɪʟɪɴᴋ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ᴘʀᴀɴᴋ* 🌿
+│ ʜᴀᴄᴋ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ʜɪʀᴜ* 🌿
+│ ʜɪʀᴜɴᴇᴡꜱ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ꜱᴇᴀʀᴄʜ* 🌿
+│ ɴᴘᴍ
+│ ꜱꜱ
+│ ɪᴍᴅʙ
+│ ᴡᴇᴀᴛʜᴇʀ
+│ ʜᴏʀᴏ
+│ ᴄʀɪᴄ
+│ ɢᴏᴏɢʟᴇ
+│ ɪᴍᴀɢᴇ
+│ ᴄᴏᴜᴘʟᴇᴘᴘ
+│ ɪꜱᴡᴀ
+│ ɴᴏᴡᴀ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+╱▬▬▬▬▬▬▬╲🌿 *ɴᴇᴡꜱ* 🌿
+│ ꜱɪʀᴀꜱᴀ
+╱▬▬▬▬▬▬▬▬▬▬▬╲
+💠 ʀᴏᴡᴅʏ-ʙᴀʙʏ-ᴍᴅ 💠
+🍀 ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ-ᴋᴀʟɪɴᴅᴜ 🍀
