@@ -58,7 +58,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b14abd862b0bf132a2b5e.jpg',
+                    url: 'https://telegra.ph/file/0a8a021d2350f6b50e9b4.jpg',
 
                 },
 
@@ -173,7 +173,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/b943d0171b8477aa9962f.jpg',
 
                 },
 
@@ -279,7 +279,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/378a65acee52ce2546d60.jpg',
 
                 },
 
@@ -385,7 +385,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/dc192e8bbc4b048c1e749.jpg',
 
                 },
 
@@ -485,7 +485,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/bef332ec2ad67473118ca.jpg',
 
                 },
 
@@ -599,7 +599,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/33dc300e9f6baac68e8cf.jpg',
 
                 },
 
@@ -697,7 +697,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/3262ae2db223ba1022d2b.jpg',
 
                 },
 
@@ -789,7 +789,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/c607b6545d6f8a7d76c39.jpg',
 
                 },
 
@@ -891,7 +891,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/750b4ec766748a8f6ef00.jpg',
 
                 },
 
@@ -997,7 +997,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/4714b499a4ed18ad138a5.jpg',
 
                 },
 
@@ -1095,7 +1095,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/80748441ca865c99f8dfd.jpg',
 
                 },
 
@@ -1202,7 +1202,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/b27f66df896a44c2f267a.jpg',
 
                 },
 
@@ -1293,7 +1293,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/21e67db6b9e3c7743f9ec.jpg',
 
                 },
 
@@ -1386,7 +1386,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/40cb5b98520a97a00c700.jpg',
 
                 },
 
@@ -1481,7 +1481,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/5aea0f68f2d67004053df.jpg',
 
                 },
 
@@ -1572,7 +1572,7 @@ cmd({
 
                 image: {
 
-                    url: 'https://telegra.ph/file/b161b6cf6c9597b67c23d.jpg',
+                    url: 'https://telegra.ph/file/41fbd2e7a16eec0a2424c.jpg',
 
                 },
 
