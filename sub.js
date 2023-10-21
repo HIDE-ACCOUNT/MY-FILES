@@ -16,7 +16,7 @@ try{
 if (!q) return reply("❗ *Please enter movie name to download Subtitles*")
 const duka = await subsearch(q)
 const latest = await subdl(duka.results[0].link)
-const maru =`*CYBER-X SINHALA SUB DOWNLOADER*
+const maru =`*ROWDY-BABY SINHALA SUB DOWNLOADER*
 
 📊 *Movie Title - ${latest.results.title}*
 
@@ -25,7 +25,7 @@ const maru =`*CYBER-X SINHALA SUB DOWNLOADER*
 🖇️ _Link_ - ${duka.results[0].link}
 
 `
-  await conn.sendMessage(from,{image:{url: latest.results.img },caption: maru + "*ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋᴀʟᴘʜᴀxᴛᴇᴀᴍ*" },{quoted:mek })
+  await conn.sendMessage(from,{image:{url: latest.results.img },caption: maru + "*ʀᴏᴡᴅʏ-ʙᴀʙʏ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋᴀʟɪɴᴅᴜ*" },{quoted:mek })
   await conn.sendMessage(from, { document : { url : latest.results.dl_link  }  ,caption: latest.results.title ,mimetype: 'application/zip', fileName: `${latest.results.title}.zip` }, { quoted: mek })
 } catch (e) {
 reply('🚫 *Error Accurated !!*\n\n' + e )
@@ -46,11 +46,11 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sen
 try{
 if (!q) return reply("❗ *Please enter movie name to Search Subtitles*")
 const vid = await subsearch(q)
-    let yt = '\n❍⚯────────────────────⚯❍\n        🌐  *𝚂𝙻 𝚂𝚄𝙱 𝚂𝙴𝙰𝚁𝙲𝙷 𝙻𝙸𝚂𝚃*  🌐\n ⚡ *ᴄʏʙᴇʀ x ꜱʟ ꜱᴜʙᴛɪᴛʟᴇ ꜱᴇᴀʀᴄʜᴇʀ* ⚡\n❍⚯────────────────────⚯❍\n\n\n'
+    let yt = '\n❍⚯────────────────────⚯❍\n        🌐  *𝚂𝙻 𝚂𝚄𝙱 𝚂𝙴𝙰𝚁𝙲𝙷 𝙻𝙸𝚂𝚃*  🌐\n ⚡ *ʀᴏᴡᴅʏ-ʙᴀʙʏ ꜱʟ ꜱᴜʙᴛɪᴛʟᴇ ꜱᴇᴀʀᴄʜᴇʀ* ⚡\n❍⚯────────────────────⚯❍\n\n\n'
     for (let i of vid.results ) {
         yt += `📃 *${i.no} - ${i.title}*\n🔗 _Link : ${i.link}_ \n\n\n`
     }
- await conn.sendMessage(from,{image:{url: "https://telegra.ph/file/d05c60fb40c1ab9f90600.jpg" },caption: yt + "*ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀʀᴋᴀʟᴘʜᴀxᴛᴇᴀᴍ*" },{quoted:mek })
+ await conn.sendMessage(from,{image:{url: "https://telegra.ph/file/d05c60fb40c1ab9f90600.jpg" },caption: yt + "*ʀᴏᴡᴅʏ-ʙᴀʙʏ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ*\n*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋᴀʟɪɴᴅᴜ*" },{quoted:mek })
 } catch (e) {
 reply('⛔ *Error accurated !!*\n\n' + e )
 l(e)
@@ -71,7 +71,7 @@ try{
 if (!q) return reply("❗ Please enter movie Link to download Subtitles*")
 if(!q.includes('baiscope')) return reply('🚫 *Please enter Valid Movie url*')
  const latest = await subdl(q)
-const maru =`*CYBER-X SL SUBTITLES DOWNLOADER*
+const maru =`*ROWDY-BABY SL SUBTITLES DOWNLOADER*
 
 📊 *Movie title - ${latest.results.title}*
 
@@ -79,8 +79,8 @@ const maru =`*CYBER-X SL SUBTITLES DOWNLOADER*
 
 🖇️ _Link_ - ${q}
 
-*ᴅᴀʀᴋᴀʟᴘʜᴀxᴛᴇᴀᴍ ᴏꜰꜰɪᴄɪᴀʟ*
-*ᴀʟʟ ʀɪɢʜᴛ ʀᴇꜱᴇʀᴠᴇᴅ - ᴛᴇᴀᴍ*`
+*ʀᴏᴡᴅʏ-ʙᴀʙʏ-ᴍᴅ*
+*ᴀʟʟ ʀɪɢʜᴛ ʀᴇꜱᴇʀᴠᴇᴅ - ʙʏ ᴋᴀʟɪɴᴅᴜ*`
  await conn.sendMessage(from , { text: maru }, { quoted: mek } )
    await conn.sendMessage(from, { document : { url : latest.results.dl_link  }  ,caption: latest.results.title ,mimetype: 'application/zip', fileName: `${latest.results.title}.zip` }, { quoted: mek })
 } catch (e) {
