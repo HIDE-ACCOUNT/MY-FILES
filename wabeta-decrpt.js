@@ -132,7 +132,7 @@ cmd(_0x2cd14e, async (_0x2fa56a, _0x3b6866, _0x2e5373) => {
         _0x951b3f.image.split('https:')[1] ||
         '//i.ibb.co/s6J0yG8/e848545de0e98c132a269.jpg'
     let _0x296df5 =
-        '\n*\u250F\u2501[ _\uD83D\uDC09DRAGON-MD-V4\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDE80' +
+        '\n*\u250F\u2501[ _\uD83D\uDC09ROWDY-BABY-MD\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDE80' +
         ('WABETA INFO ℹ️_ )* \n\n*\u2503\u2FFB* *\uD83E\uDD4F Title :* ' +
           _0x951b3f.title +
           '\n\n*\u2503\u2FFB* *\uD83D\uDCC5 ᴅᴀᴛᴇ :* ' +
@@ -160,7 +160,7 @@ cmd(_0x2cd14e, async (_0x2fa56a, _0x3b6866, _0x2e5373) => {
           image: { url: 'https:' + _0x2691e3 },
           caption:
             _0x296df5 +
-            '\n\n*\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25C6*\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0\n',
+            '\n\n*\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25C6*\n\nROWDY-BABY-MD \u2981 MADE BY KALINDU\nVERSION 1\n',
         },
         { quoted: _0x3b6866 }
       ),
@@ -195,7 +195,7 @@ cmd(_0x2cd14e, async (_0x2fa56a, _0x3b6866, _0x2e5373) => {
         _0x527fdc.image.split('https:')[1] ||
         '//i.ibb.co/s6J0yG8/e848545de0e98c132a269.jpg'
     let _0xfeb06a =
-        '\n*\u250F\u2501[ _\uD83D\uDC09DRAGON-MD-V4\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDE80' +
+        '\n*\u250F\u2501[ _\uD83D\uDC09ROWDY-BABY-MD\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDE80' +
         ('WABETA INFO ℹ️_ )* \n\n*\u2503\u2FFB* *\uD83E\uDD4F Title :* ' +
           _0x527fdc.title +
           '\n\n*\u2503\u2FFB* *\uD83D\uDCC5 ᴅᴀᴛᴇ :* ' +
@@ -223,7 +223,7 @@ cmd(_0x2cd14e, async (_0x2fa56a, _0x3b6866, _0x2e5373) => {
           image: { url: 'https:' + _0x231075 },
           caption:
             _0xfeb06a +
-            '\n\n*\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25C6*\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0\n',
+            '\n\n*\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25C6*\n\nROWDY-BABY-MD \u2981 MADE BY KALINDU\nVERSION 1\n',
         },
         { quoted: _0x3b6866 }
       ),
@@ -271,7 +271,7 @@ cmd(_0x1db169, async (_0x1c908a, _0x5eaaa6, _0xd108db) => {
         '//i.ibb.co/s6J0yG8/e848545de0e98c132a269.jpg',
       _0x2bf0b6 = _0x3f2d23
     let _0x42c98f =
-      '\n*\u250F\u2501[ _\uD83D\uDC09DRAGON-MD-V4\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDE80WABETA INFO ℹ️_ )*\n\n```.wbi [news url] - use to see news in brief```'
+      '\n*\u250F\u2501[ _\uD83D\uDC09ROWDY-BABY-MD\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDE80WABETA INFO ℹ️_ )*\n\n```.wbi [news url] - use to see news in brief```'
     for (let _0x7b94a7 of _0x2bf0b6) {
       _0x42c98f +=
         '\n\n\uD83E\uDD4F *ᴛɪᴛʟᴇ - ' +
@@ -290,7 +290,7 @@ cmd(_0x1db169, async (_0x1c908a, _0x5eaaa6, _0xd108db) => {
         {
           image: { url: 'https:' + _0x37f025 },
           caption:
-            _0x42c98f + '\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0\n',
+            _0x42c98f + '\n\nROWDY-BABY-MD \u2981 MADE BY KALINDU\nVERSION 1\n',
         },
         { quoted: _0x5eaaa6 }
       ),
