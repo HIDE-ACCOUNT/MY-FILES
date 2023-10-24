@@ -134,12 +134,12 @@ cmd(_0x5d84eb, async (_0x10320c, _0x5de284, _0x43d3f5) => {
   const _0x44b1c7 = {
     image: _0x218ebe,
     caption:
-      '\n*\u250F\u2501[ _\uD83D\uDC09DRAGON-MD-V4\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDD4F ғᴏᴜɴᴅᴡᴀ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ \u2B07️_ )* \n\n*\u2503\u2FFB* *\uD83D\uDCE6 ᴘᴀᴄᴋᴀɢᴇs :* \n\n      *\u2742.* _com_whatsapp_ \n      *\u2742.* _com_fmwhatsapp_ \n      *\u2742.* _com_gbwhatsapp_ \n      *\u2742.* _com_yowhatsapp_ \n\n*\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25C6*\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+      '\n*\u250F\u2501[ _\uD83D\uDC09ROWDY-BABY-MD\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDD4F ғᴏᴜɴᴅᴡᴀ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ \u2B07️_ )* \n\n*\u2503\u2FFB* *\uD83D\uDCE6 ᴘᴀᴄᴋᴀɢᴇs :* \n\n      *\u2742.* _com_whatsapp_ \n      *\u2742.* _com_fmwhatsapp_ \n      *\u2742.* _com_gbwhatsapp_ \n      *\u2742.* _com_yowhatsapp_ \n\n*\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25C6*\n\nʀᴏᴡᴅʏ-ʙᴀʙʏ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴋᴀʟɪɴᴅᴜ\nᴠᴇʀꜱɪᴏɴ 1',
   }
   const _0x2f2a19 = await _0x10320c.sendMessage(_0x5de284.chat, _0x44b1c7, {
       quoted: _0x5de284,
     }),
-    _0x6aa0f7 = { text: '```Please Wait Downloading All Packages```' }
+    _0x6aa0f7 = { text: '```🌀 Please Wait Downloading All Packages 🌀```' }
   const _0x3ba210 = { quoted: _0x2f2a19 }
   await _0x10320c.sendMessage(_0x5de284.chat, _0x6aa0f7, _0x3ba210)
   try {
@@ -156,7 +156,7 @@ cmd(_0x5d84eb, async (_0x10320c, _0x5de284, _0x43d3f5) => {
       fileName: _0x49f207.name,
       mimetype: 'application/vnd.android.package-archive',
       caption:
-        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.whatsapp_\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.whatsapp_\n\nʀᴏᴡᴅʏ-ʙᴀʙʏ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴋᴀʟɪɴᴅᴜ\nᴠᴇʀꜱɪᴏɴ 1',
     }
     let _0x22c1f4 = _0x13bcfe
     const _0x4b182e = {
@@ -204,7 +204,7 @@ cmd(_0x5d84eb, async (_0x10320c, _0x5de284, _0x43d3f5) => {
       fileName: _0x2ee1f0.name,
       mimetype: 'application/vnd.android.package-archive',
       caption:
-        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.fmwhatsapp_\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.fmwhatsapp_\n\nʀᴏᴡᴅʏ-ʙᴀʙʏ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴋᴀʟɪɴᴅᴜ\nᴠᴇʀꜱɪᴏɴ 1',
     }
     let _0x2a5f63 = _0x54f72c
     const _0x2276e0 = {
@@ -252,7 +252,7 @@ cmd(_0x5d84eb, async (_0x10320c, _0x5de284, _0x43d3f5) => {
       fileName: _0x5855a4.name,
       mimetype: 'application/vnd.android.package-archive',
       caption:
-        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.gbwhatsapp_\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.gbwhatsapp_\n\nʀᴏᴡᴅʏ-ʙᴀʙʏ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴋᴀʟɪɴᴅᴜ\nᴠᴇʀꜱɪᴏɴ 1',
     }
     let _0x4ed356 = _0x351bda
     const _0x264551 = {
@@ -300,7 +300,7 @@ cmd(_0x5d84eb, async (_0x10320c, _0x5de284, _0x43d3f5) => {
       fileName: _0x2f48ca.name,
       mimetype: 'application/vnd.android.package-archive',
       caption:
-        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.yowhatsapp_\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.yowhatsapp_\n\nʀᴏᴡᴅʏ-ʙᴀʙʏ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴋᴀʟɪɴᴅᴜ\nᴠᴇʀꜱɪᴏɴ 1',
     }
     let _0x17c894 = _0x280cd4
     const _0x5f5bc0 = {
@@ -335,7 +335,7 @@ cmd(_0x5d84eb, async (_0x10320c, _0x5de284, _0x43d3f5) => {
     await _0x10320c.sendMessage(_0x5de284.chat, _0x109b7a)
   }
   const _0x2cbe56 = {
-    text: '```Successfully Downloaded All Packages``` \u2705',
+    text: '```🇱🇰 Successfully Downloaded All Packages 🇱🇰``` \u2705',
   }
   const _0x4950d9 = { quoted: _0x2f2a19 }
   await _0x10320c.sendMessage(_0x5de284.chat, _0x2cbe56, _0x4950d9)
