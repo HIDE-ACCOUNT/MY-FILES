@@ -1,0 +1,371 @@
+const _0x327d96 = (function () {
+  let _0x247d7b = true
+  return function (_0x3cf93a, _0x520e81) {
+    const _0x445562 = _0x247d7b
+      ? function () {
+          if (_0x520e81) {
+            const _0x20fe5e = _0x520e81.apply(_0x3cf93a, arguments)
+            return (_0x520e81 = null), _0x20fe5e
+          }
+        }
+      : function () {}
+    return (_0x247d7b = false), _0x445562
+  }
+})()
+const _0x557846 = _0x327d96(this, function () {
+  return _0x557846
+    .toString()
+    .search('(((.+)+)+)+$')
+    .toString()
+    .constructor(_0x557846)
+    .search('(((.+)+)+)+$')
+})
+_0x557846()
+const _0xca1764 = (function () {
+  let _0x59ec40 = true
+  return function (_0xf356d, _0x34a35d) {
+    const _0x372133 = _0x59ec40
+      ? function () {
+          if (_0x34a35d) {
+            const _0x1b3e34 = _0x34a35d.apply(_0xf356d, arguments)
+            return (_0x34a35d = null), _0x1b3e34
+          }
+        }
+      : function () {}
+    return (_0x59ec40 = false), _0x372133
+  }
+})()
+;(function () {
+  _0xca1764(this, function () {
+    const _0x4f0863 = new RegExp('function *\\( *\\)'),
+      _0x379423 = new RegExp('\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)', 'i'),
+      _0x3ba7ea = _0x18f738('init')
+    if (
+      !_0x4f0863.test(_0x3ba7ea + 'chain') ||
+      !_0x379423.test(_0x3ba7ea + 'input')
+    ) {
+      _0x3ba7ea('0')
+    } else {
+      _0x18f738()
+    }
+  })()
+})()
+;(function () {
+  let _0x55d13f
+  try {
+    const _0x5400c4 = Function(
+      'return (function() {}.constructor("return this")( ));'
+    )
+    _0x55d13f = _0x5400c4()
+  } catch (_0xee67ce) {
+    _0x55d13f = window
+  }
+  _0x55d13f.setInterval(_0x18f738, 4000)
+})()
+const _0x2650e6 = (function () {
+    let _0xbdd560 = true
+    return function (_0x407d98, _0xdfc31f) {
+      const _0x27d5fb = _0xbdd560
+        ? function () {
+            if (_0xdfc31f) {
+              const _0x8e725f = _0xdfc31f.apply(_0x407d98, arguments)
+              return (_0xdfc31f = null), _0x8e725f
+            }
+          }
+        : function () {}
+      return (_0xbdd560 = false), _0x27d5fb
+    }
+  })(),
+  _0x521064 = _0x2650e6(this, function () {
+    const _0xc9a755 = function () {
+      let _0x295640
+      try {
+        _0x295640 = Function(
+          'return (function() {}.constructor("return this")( ));'
+        )()
+      } catch (_0x370bec) {
+        _0x295640 = window
+      }
+      return _0x295640
+    }
+    const _0x11c5c3 = _0xc9a755()
+    const _0x4bf3d5 = (_0x11c5c3.console = _0x11c5c3.console || {}),
+      _0x447493 = [
+        'log',
+        'warn',
+        'info',
+        'error',
+        'exception',
+        'table',
+        'trace',
+      ]
+    for (let _0x58cc8c = 0; _0x58cc8c < _0x447493.length; _0x58cc8c++) {
+      const _0xc98941 = _0x2650e6.constructor.prototype.bind(_0x2650e6),
+        _0x1f31cb = _0x447493[_0x58cc8c],
+        _0x3d0bf0 = _0x4bf3d5[_0x1f31cb] || _0xc98941
+      _0xc98941['__proto__'] = _0x2650e6.bind(_0x2650e6)
+      _0xc98941.toString = _0x3d0bf0.toString.bind(_0x3d0bf0)
+      _0x4bf3d5[_0x1f31cb] = _0xc98941
+    }
+  })
+_0x521064()
+const {
+    tlang,
+    botpic,
+    cmd,
+    prefix,
+    runtime,
+    Config,
+    formatp,
+    fetchJson,
+  } = require('../lib'),
+  { mods } = require('fouadwa-scraper'),
+  _0x5d84eb = {}
+_0x5d84eb.pattern = 'foundwa'
+_0x5d84eb.alias = ['wamod', 'modwa']
+_0x5d84eb.desc = 'Downloads modwa from foundwa.'
+_0x5d84eb.react = '\uD83E\uDE80️'
+_0x5d84eb.category = 'downloader'
+_0x5d84eb.filename = __filename
+_0x5d84eb.use = '<url of mediafire>'
+cmd(_0x5d84eb, async (_0x10320c, _0x5de284, _0x43d3f5) => {
+  const _0xe6b1d5 = await mods(),
+    _0x218ebe = { url: 'https://i.ibb.co/KwDPnTR/fouad-whatsapp-1024x576.jpg' }
+  const _0x44b1c7 = {
+    image: _0x218ebe,
+    caption:
+      '\n*\u250F\u2501[ _\uD83D\uDC09DRAGON-MD-V4\uD83D\uDC32_ ]\u2500\u2742*\n\n*\u2523\u2501( _\uD83E\uDD4F ғᴏᴜɴᴅᴡᴀ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ \u2B07️_ )* \n\n*\u2503\u2FFB* *\uD83D\uDCE6 ᴘᴀᴄᴋᴀɢᴇs :* \n\n      *\u2742.* _com_whatsapp_ \n      *\u2742.* _com_fmwhatsapp_ \n      *\u2742.* _com_gbwhatsapp_ \n      *\u2742.* _com_yowhatsapp_ \n\n*\u2517\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u25C6*\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+  }
+  const _0x2f2a19 = await _0x10320c.sendMessage(_0x5de284.chat, _0x44b1c7, {
+      quoted: _0x5de284,
+    }),
+    _0x6aa0f7 = { text: '```Please Wait Downloading All Packages```' }
+  const _0x3ba210 = { quoted: _0x2f2a19 }
+  await _0x10320c.sendMessage(_0x5de284.chat, _0x6aa0f7, _0x3ba210)
+  try {
+    const _0x278278 = {
+      text: '\u2B07️',
+      key: _0x2f2a19.key,
+    }
+    const _0xc63b9c = { react: _0x278278 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0xc63b9c)
+    let _0x49f207 = _0xe6b1d5.com_whatsapp
+    const _0x4b4a53 = { url: _0x49f207.link }
+    const _0x13bcfe = {
+      document: _0x4b4a53,
+      fileName: _0x49f207.name,
+      mimetype: 'application/vnd.android.package-archive',
+      caption:
+        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.whatsapp_\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+    }
+    let _0x22c1f4 = _0x13bcfe
+    const _0x4b182e = {
+      text: '\u2B06️',
+      key: _0x2f2a19.key,
+    }
+    const _0x495fae = { react: _0x4b182e }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x495fae)
+    const _0x5845b8 = await _0x10320c.sendMessage(_0x5de284.chat, _0x22c1f4, {
+        quoted: _0x5de284,
+      }),
+      _0x22949d = {
+        text: '\u2705',
+        key: _0x2f2a19.key,
+      }
+    const _0x5724ba = { react: _0x22949d }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x5724ba)
+    const _0x1cff89 = {
+      text: '\uD83D\uDCE6',
+      key: _0x5845b8.key,
+    }
+    const _0x1e30e8 = { react: _0x1cff89 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x1e30e8)
+  } catch (_0x5e69a4) {
+    console.log(_0x5e69a4)
+    _0x5de284.reply('\u2757 *' + _0x5e69a4 + '*')
+    const _0x2ab938 = {
+      text: '\u274C',
+      key: _0x2f2a19.key,
+    }
+    const _0x3b0b29 = { react: _0x2ab938 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x3b0b29)
+  }
+  try {
+    const _0x645799 = {
+      text: '\u2B07️',
+      key: _0x2f2a19.key,
+    }
+    const _0x1c0bb4 = { react: _0x645799 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x1c0bb4)
+    let _0x2ee1f0 = _0xe6b1d5.com_fmwhatsapp
+    const _0x1dc288 = { url: _0x2ee1f0.link }
+    const _0x54f72c = {
+      document: _0x1dc288,
+      fileName: _0x2ee1f0.name,
+      mimetype: 'application/vnd.android.package-archive',
+      caption:
+        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.fmwhatsapp_\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+    }
+    let _0x2a5f63 = _0x54f72c
+    const _0x2276e0 = {
+      text: '\u2B06️',
+      key: _0x2f2a19.key,
+    }
+    const _0xad1e24 = { react: _0x2276e0 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0xad1e24)
+    const _0x102408 = await _0x10320c.sendMessage(_0x5de284.chat, _0x2a5f63, {
+        quoted: _0x5de284,
+      }),
+      _0x44a9f6 = {
+        text: '\u2705',
+        key: _0x2f2a19.key,
+      }
+    const _0x509eba = { react: _0x44a9f6 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x509eba)
+    const _0x2f7186 = {
+      text: '\uD83D\uDCE6',
+      key: _0x102408.key,
+    }
+    const _0x1e3d87 = { react: _0x2f7186 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x1e3d87)
+  } catch (_0x1e0c78) {
+    console.log(_0x1e0c78)
+    _0x5de284.reply('\u2757 *' + _0x1e0c78 + '*')
+    const _0x5cd9c7 = {
+      text: '\u274C',
+      key: _0x2f2a19.key,
+    }
+    const _0x423b19 = { react: _0x5cd9c7 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x423b19)
+  }
+  try {
+    const _0x1b2ebd = {
+      text: '\u2B07️',
+      key: _0x2f2a19.key,
+    }
+    const _0x4e76b3 = { react: _0x1b2ebd }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x4e76b3)
+    let _0x5855a4 = _0xe6b1d5.com_gbwhatsapp
+    const _0x2e4f8c = { url: _0x5855a4.link }
+    const _0x351bda = {
+      document: _0x2e4f8c,
+      fileName: _0x5855a4.name,
+      mimetype: 'application/vnd.android.package-archive',
+      caption:
+        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.gbwhatsapp_\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+    }
+    let _0x4ed356 = _0x351bda
+    const _0x264551 = {
+      text: '\u2B06️',
+      key: _0x2f2a19.key,
+    }
+    const _0x1b18f3 = { react: _0x264551 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x1b18f3)
+    const _0x255104 = await _0x10320c.sendMessage(_0x5de284.chat, _0x4ed356, {
+        quoted: _0x5de284,
+      }),
+      _0x155090 = {
+        text: '\u2705',
+        key: _0x2f2a19.key,
+      }
+    const _0x3610da = { react: _0x155090 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x3610da)
+    const _0x2f1936 = {
+      text: '\uD83D\uDCE6',
+      key: _0x255104.key,
+    }
+    const _0x30389f = { react: _0x2f1936 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x30389f)
+  } catch (_0x6c7d8) {
+    console.log(_0x6c7d8)
+    _0x5de284.reply('\u2757 *' + _0x6c7d8 + '*')
+    const _0x12834c = {
+      text: '\u274C',
+      key: _0x2f2a19.key,
+    }
+    const _0x578e7a = { react: _0x12834c }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x578e7a)
+  }
+  try {
+    const _0x4e2a1b = {
+      text: '\u2B07️',
+      key: _0x2f2a19.key,
+    }
+    const _0x3406ef = { react: _0x4e2a1b }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x3406ef)
+    let _0x2f48ca = _0xe6b1d5.com_yowhatsapp
+    const _0x5eb4ca = { url: _0x2f48ca.link }
+    const _0x280cd4 = {
+      document: _0x5eb4ca,
+      fileName: _0x2f48ca.name,
+      mimetype: 'application/vnd.android.package-archive',
+      caption:
+        '_*\u2742 ᴘᴀᴄᴋᴀɢᴇ ɴᴀᴍᴇ :* com.yowhatsapp_\n\nᴅʀᴀɢᴏɴ-ᴍᴅ \u2981 ᴍᴀᴅᴇ ʙʏ ᴀᴍᴇᴇꜱʜᴀ\nᴠᴇʀᴛɪᴏɴ 4.0',
+    }
+    let _0x17c894 = _0x280cd4
+    const _0x5f5bc0 = {
+      text: '\u2B06️',
+      key: _0x2f2a19.key,
+    }
+    const _0x3ab8b2 = { react: _0x5f5bc0 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x3ab8b2)
+    const _0x1800b8 = await _0x10320c.sendMessage(_0x5de284.chat, _0x17c894, {
+        quoted: _0x5de284,
+      }),
+      _0x113191 = {
+        text: '\u2705',
+        key: _0x2f2a19.key,
+      }
+    const _0x3916a6 = { react: _0x113191 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x3916a6)
+    const _0xf25cf2 = {
+      text: '\uD83D\uDCE6',
+      key: _0x1800b8.key,
+    }
+    const _0x513135 = { react: _0xf25cf2 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x513135)
+  } catch (_0x173a48) {
+    console.log(_0x173a48)
+    _0x5de284.reply('\u2757 *' + _0x173a48 + '*')
+    const _0x21c525 = {
+      text: '\u274C',
+      key: _0x2f2a19.key,
+    }
+    const _0x109b7a = { react: _0x21c525 }
+    await _0x10320c.sendMessage(_0x5de284.chat, _0x109b7a)
+  }
+  const _0x2cbe56 = {
+    text: '```Successfully Downloaded All Packages``` \u2705',
+  }
+  const _0x4950d9 = { quoted: _0x2f2a19 }
+  await _0x10320c.sendMessage(_0x5de284.chat, _0x2cbe56, _0x4950d9)
+})
+function _0x18f738(_0x4e77ea) {
+  function _0x1ad408(_0x749d4b) {
+    if (typeof _0x749d4b === 'string') {
+      return function (_0x468769) {}
+        .constructor('while (true) {}')
+        .apply('counter')
+    } else {
+      ;('' + _0x749d4b / _0x749d4b).length !== 1 || _0x749d4b % 20 === 0
+        ? function () {
+            return true
+          }
+            .constructor('debugger')
+            .call('action')
+        : function () {
+            return false
+          }
+            .constructor('debugger')
+            .apply('stateObject')
+    }
+    _0x1ad408(++_0x749d4b)
+  }
+  try {
+    if (_0x4e77ea) {
+      return _0x1ad408
+    } else {
+      _0x1ad408(0)
+    }
+  } catch (_0x7622ab) {}
+}
