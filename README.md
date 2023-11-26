@@ -1,5 +1,7 @@
  MR-KALINDU=hu1XjBoD#OVEIFyNM1zMzOxLbckIvY428DTGPsaxscxw81huWpCU
 
+ postgres://kalindu_md_user:7oVjlUbLgDHGiQ8JwZvlEoAlbAj6FjHn@dpg-cl2qih1novjs73b66h1g-a.oregon-postgres.render.com/kalindu_md
+
 
 mongodb://uzzmnjtnuyny038k5ib2:KxYrpUe9XQ5nVVkbbL17@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/bjulgdg77k4wt2w?replicaSet=rs0
 
