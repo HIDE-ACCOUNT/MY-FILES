@@ -1,13 +1,4 @@
-MR-KALINDU;;;NogginSeedy
-
-
-MR-KALINDU=5780Sa6b#b043hobxu5V29xfO3y6MYDM_7iUe0sDR8yXWow6fGaw
-
-
-dmNCmboB#_lGJvzJ-38ozcCidggOxBxECTwTCc1wcR8TmoYLtZtw
-
-
-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
+ MR-KALINDU=hu1XjBoD#OVEIFyNM1zMzOxLbckIvY428DTGPsaxscxw81huWpCU
 
 
 mongodb://uzzmnjtnuyny038k5ib2:KxYrpUe9XQ5nVVkbbL17@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/bjulgdg77k4wt2w?replicaSet=rs0
