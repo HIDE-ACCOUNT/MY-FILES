@@ -133,7 +133,7 @@ cmd(_0x1d86f4, async (_0x78c14e, _0x5f561a, _0x3189aa) => {
     var _0x5cdc56 = {
       image: _0x1fa6df,
       caption:
-        'ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡',
+        '*MADE BY WHITE-SHADOW-MD 🍡*',
     }
     _0x78c14e.sendMessage(_0x5f561a.chat, _0x5cdc56, { quoted: _0x5f561a })
   } catch (_0x3872ea) {
@@ -155,7 +155,7 @@ cmd(_0x534306, async (_0x4f65d3, _0x42973d, _0x1e6232) => {
   var _0x46ff04 = {
     image: _0x79077f,
     caption:
-      'ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x4f65d3.sendMessage(_0x42973d.chat, _0x46ff04, { quoted: _0x42973d })
 })
@@ -174,7 +174,7 @@ cmd(_0x32956f, async (_0x8e55fc, _0x44cd3b, _0xc4ad) => {
   var _0x5833f9 = {
     image: _0x1389d5,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x8e55fc.sendMessage(_0x44cd3b.chat, _0x5833f9, { quoted: _0x44cd3b })
 })
@@ -193,7 +193,7 @@ cmd(_0x5b1576, async (_0x198f0a, _0x1e6703, _0x52b2b7) => {
   var _0x160d45 = {
     image: _0x4d1c33,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x198f0a.sendMessage(_0x1e6703.chat, _0x160d45, { quoted: _0x1e6703 })
 })
@@ -212,7 +212,7 @@ cmd(_0x3f82ee, async (_0x5dd2e9, _0x15bb9e, _0x296232) => {
   var _0x52da58 = {
     image: _0x485c3d,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x5dd2e9.sendMessage(_0x15bb9e.chat, _0x52da58, { quoted: _0x15bb9e })
 })
@@ -231,7 +231,7 @@ cmd(_0x81889f, async (_0x18cec9, _0x4f5e7e, _0x5c1c3f) => {
   var _0x487532 = {
     image: _0x30e598,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x18cec9.sendMessage(_0x4f5e7e.chat, _0x487532, { quoted: _0x4f5e7e })
 })
@@ -250,7 +250,7 @@ cmd(_0x1a16cc, async (_0x104cd9, _0x1559d9, _0x3bd960) => {
   var _0x49b758 = {
     image: _0x20cf36,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x104cd9.sendMessage(_0x1559d9.chat, _0x49b758, { quoted: _0x1559d9 })
 })
@@ -269,7 +269,7 @@ cmd(_0x1931b9, async (_0x191d6b, _0x5a7083, _0x483f63) => {
   var _0x4e8453 = {
     image: _0x3d47b2,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x191d6b.sendMessage(_0x5a7083.chat, _0x4e8453, { quoted: _0x5a7083 })
 })
@@ -288,7 +288,7 @@ cmd(_0x4916dc, async (_0x2996b6, _0x468663, _0xe5f62e) => {
   var _0x29d089 = {
     image: _0x3f4879,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x2996b6.sendMessage(_0x468663.chat, _0x29d089, { quoted: _0x468663 })
 })
@@ -306,7 +306,7 @@ cmd(_0x33e35b, async (_0x5479db, _0x464751, _0x19361d) => {
   var _0x5df809 = {
     image: _0x1f9e67,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x5479db.sendMessage(_0x464751.chat, _0x5df809, { quoted: _0x464751 })
 })
@@ -324,7 +324,7 @@ cmd(_0x82e188, async (_0x527638, _0x30d2f5, _0x5cd5a2) => {
   var _0x2e6ef0 = {
     image: _0x2183ac,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x527638.sendMessage(_0x30d2f5.chat, _0x2e6ef0, { quoted: _0x30d2f5 })
 })
@@ -342,7 +342,7 @@ cmd(_0xa682a8, async (_0x5565e2, _0x72094e, _0xcc85d4) => {
   var _0xe1060f = {
     image: _0x18143f,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x5565e2.sendMessage(_0x72094e.chat, _0xe1060f, { quoted: _0x72094e })
 })
@@ -360,7 +360,7 @@ cmd(_0x2a2cbf, async (_0x21d640, _0x2cc0b6, _0x338aff) => {
   var _0x3a68c1 = {
     image: _0xbdd391,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x21d640.sendMessage(_0x2cc0b6.chat, _0x3a68c1, { quoted: _0x2cc0b6 })
 })
@@ -382,7 +382,7 @@ cmd(_0x431b62, async (_0x311b73, _0x18a56a, _0x40d6bf) => {
   var _0x1e4a40 = {
     image: _0x398f70,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x311b73.sendMessage(_0x18a56a.chat, _0x1e4a40, { quoted: _0x18a56a })
 })
@@ -404,7 +404,7 @@ cmd(_0x335ba9, async (_0x1a5c47, _0x1a494d, _0x4878ea) => {
   var _0x3bf4f0 = {
     image: _0x2fa9f1,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x1a5c47.sendMessage(_0x1a494d.chat, _0x3bf4f0, { quoted: _0x1a494d })
 })
@@ -426,7 +426,7 @@ cmd(_0x4a99dd, async (_0x68746c, _0x12b579, _0x560ffa) => {
   var _0x1e0e78 = {
     image: _0x4ab315,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x68746c.sendMessage(_0x12b579.chat, _0x1e0e78, { quoted: _0x12b579 })
 })
@@ -448,7 +448,7 @@ cmd(_0x2b8f26, async (_0xb02ebd, _0x1eb0d7, _0x5df99b) => {
   var _0x14027f = {
     image: _0x56c365,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0xb02ebd.sendMessage(_0x1eb0d7.chat, _0x14027f, { quoted: _0x1eb0d7 })
 })
@@ -470,7 +470,7 @@ cmd(_0x98ae30, async (_0x2a05f5, _0x4e3c36, _0x4e84de) => {
   var _0x4c5aac = {
     image: _0x2c210a,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x2a05f5.sendMessage(_0x4e3c36.chat, _0x4c5aac, { quoted: _0x4e3c36 })
 })
@@ -492,7 +492,7 @@ cmd(_0x12cdcc, async (_0x51d4c6, _0x521986, _0x43efbc) => {
   var _0x52f78c = {
     image: _0x194916,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x51d4c6.sendMessage(_0x521986.chat, _0x52f78c, { quoted: _0x521986 })
 })
@@ -514,7 +514,7 @@ cmd(_0x4ec153, async (_0x4f575d, _0x374f63, _0x3537cc) => {
   var _0x524018 = {
     image: _0x56ac19,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x4f575d.sendMessage(_0x374f63.chat, _0x524018, { quoted: _0x374f63 })
 })
@@ -536,7 +536,7 @@ cmd(_0x13045d, async (_0x56bd61, _0x4cd528, _0x50021d) => {
   var _0x3bebfe = {
     image: _0x17b2b4,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x56bd61.sendMessage(_0x4cd528.chat, _0x3bebfe, { quoted: _0x4cd528 })
 })
@@ -570,7 +570,7 @@ cmd(_0x2f80da, async (_0x116fe3, _0x5c55d4, _0x414124) => {
   var _0x41c608 = {
     image: _0x2647fa,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x116fe3.sendMessage(_0x5c55d4.chat, _0x41c608, { quoted: _0x5c55d4 })
 })
@@ -592,7 +592,7 @@ cmd(_0xa85f, async (_0x13b0ec, _0x335bd5, _0x2c57cf) => {
   var _0x1aeab3 = {
     image: _0x389fbf,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x13b0ec.sendMessage(_0x335bd5.chat, _0x1aeab3, { quoted: _0x335bd5 })
 })
@@ -614,7 +614,7 @@ cmd(_0x4e5863, async (_0x2d5c02, _0x1d66a3, _0x537b0c) => {
   var _0x41eebb = {
     image: _0x37c568,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x2d5c02.sendMessage(_0x1d66a3.chat, _0x41eebb, { quoted: _0x1d66a3 })
 })
@@ -636,7 +636,7 @@ cmd(_0x50cc1c, async (_0x1183e4, _0xc74da3, _0xb0098a) => {
   var _0x323e26 = {
     image: _0x44bd3e,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x1183e4.sendMessage(_0xc74da3.chat, _0x323e26, { quoted: _0xc74da3 })
 })
@@ -680,7 +680,7 @@ cmd(_0x588ae5, async (_0x242ca7, _0x1c5088, _0x4b0c3) => {
   var _0x16d4aa = {
     image: _0x5df4c5,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x242ca7.sendMessage(_0x1c5088.chat, _0x16d4aa, { quoted: _0x1c5088 })
 })
@@ -702,7 +702,7 @@ cmd(_0x5445b2, async (_0x156f31, _0x19b064, _0x377181) => {
   var _0xf41ed = {
     image: _0x2100eb,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x156f31.sendMessage(_0x19b064.chat, _0xf41ed, { quoted: _0x19b064 })
 })
@@ -721,7 +721,7 @@ cmd(_0x3af7e4, async (_0x8e6e9b, _0x54dab3, _0x5b3609) => {
   var _0x17eae1 = {
     image: _0x3e7d74,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x8e6e9b.sendMessage(_0x54dab3.chat, _0x17eae1, { quoted: _0x54dab3 })
 })
@@ -744,7 +744,7 @@ cmd(_0xb97e0f, async (_0x502a42, _0x67450a, _0x3a7446) => {
   var _0xd730c6 = {
     image: _0x42b542,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x502a42.sendMessage(_0x67450a.chat, _0xd730c6, { quoted: _0x67450a })
 })
@@ -766,7 +766,7 @@ cmd(_0x756450, async (_0x1b9094, _0x20fb29, _0x26b2cc) => {
   var _0x1b6ed8 = {
     image: _0x5531f6,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x1b9094.sendMessage(_0x20fb29.chat, _0x1b6ed8, { quoted: _0x20fb29 })
 })
@@ -788,7 +788,7 @@ cmd(_0x5cdfef, async (_0x2d7d18, _0x243357, _0x136495) => {
   var _0x2394a0 = {
     image: _0x4253ba,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x2d7d18.sendMessage(_0x243357.chat, _0x2394a0, { quoted: _0x243357 })
 })
@@ -818,7 +818,7 @@ cmd(_0x10e6c8, async (_0xc7123b, _0x5a43f3, _0x275922) => {
   var _0x5f00eb = {
     image: _0x117288,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0xc7123b.sendMessage(_0x5a43f3.chat, _0x5f00eb, { quoted: _0x5a43f3 })
 })
@@ -848,7 +848,7 @@ cmd(_0x519bc5, async (_0x58ea86, _0x17086e, _0x5dac2a) => {
   var _0x4e3356 = {
     image: _0x3760cb,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x58ea86.sendMessage(_0x17086e.chat, _0x4e3356, { quoted: _0x17086e })
 })
@@ -878,7 +878,7 @@ cmd(_0x541ca2, async (_0x3bd797, _0x1d4831, _0x55397a) => {
   var _0x1f8b78 = {
     image: _0x57fe15,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x3bd797.sendMessage(_0x1d4831.chat, _0x1f8b78, { quoted: _0x1d4831 })
 })
@@ -908,7 +908,7 @@ cmd(_0x4ffda5, async (_0x1f5768, _0x5e29c1, _0x3c92b6) => {
   var _0x29806b = {
     image: _0x43314,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x1f5768.sendMessage(_0x5e29c1.chat, _0x29806b, { quoted: _0x5e29c1 })
 })
@@ -938,7 +938,7 @@ cmd(_0x19fbaf, async (_0x49ff45, _0x220997, _0xcd2e85) => {
   var _0x46fad9 = {
     image: _0x431526,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x49ff45.sendMessage(_0x220997.chat, _0x46fad9, { quoted: _0x220997 })
 })
@@ -968,7 +968,7 @@ cmd(_0x48f888, async (_0x2fab0a, _0x15dedd, _0x5e24ad) => {
   var _0x4e003e = {
     image: _0x54d5c7,
     caption:
-      '*ᴍᴀᴅᴇ ʙʏ ʀᴏᴡᴅʏ ʙᴀʙʏ ᴍᴅ 🍡*',
+      '*MADE BY WHITE-SHADOW-MD 🍡*',
   }
   _0x2fab0a.sendMessage(_0x15dedd.chat, _0x4e003e, { quoted: _0x15dedd })
 })
