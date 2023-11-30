@@ -8,7 +8,7 @@ mongodb://uzzmnjtnuyny038k5ib2:KxYrpUe9XQ5nVVkbbL17@n1-c2-mongodb-clevercloud-cu
 
 
 
-
+https://telegra.ph/file/e9c7c757ed8011e8355f8.jpg
 
 
 120363162305531586@g.us
