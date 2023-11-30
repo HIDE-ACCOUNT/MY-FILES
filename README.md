@@ -1,5 +1,16 @@
  MR-KALINDU=hu1XjBoD#OVEIFyNM1zMzOxLbckIvY428DTGPsaxscxw81huWpCU
 
+
+*White-Shadow  WhatsApp Bot* ✔️
+
+_This is the result of Mr-Kalindu hard work and our team owns the bot's rights and code rights. Therefore, you have no chance to change and submit our bot under any circumstances._
+
+🔰 *Official GitHub* - ```https://github.com/MR-KALINDU```
+
+🪀 *Number* - ```+94758179948```
+
+*ᴍʀ-ᴋᴀʟɪɴᴅᴜ* 🐞
+*ᴀʟʟ ʀɪɢʜᴛ ʀᴇꜱᴇʀᴠᴇᴅ* 💋
  postgres://kalindu_md_user:7oVjlUbLgDHGiQ8JwZvlEoAlbAj6FjHn@dpg-cl2qih1novjs73b66h1g-a.oregon-postgres.render.com/kalindu_md
 
 
