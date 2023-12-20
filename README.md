@@ -1,4 +1,7 @@
- MR-KALINDU=hu1XjBoD#OVEIFyNM1zMzOxLbckIvY428DTGPsaxscxw81huWpCU
+MR-KALINDU=xvVRDITA#d8ooZgo0zz3_fF4zk84GJmMBaQ6v1E3q7sDBB-dqSqY
+
+
+postgres://kalindu_md_user:7oVjlUbLgDHGiQ8JwZvlEoAlbAj6FjHn@dpg-cl2qih1novjs73b66h1g-a.oregon-postgres.render.com/kalindu_md
 
 
 *White-Shadow  WhatsApp Bot* ✔️
