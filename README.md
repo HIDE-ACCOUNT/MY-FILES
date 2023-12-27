@@ -1,4 +1,177 @@
 
+const _0x4aac41 = (function () {
+  let _0x251ce1 = true
+  return function (_0x25d34c, _0x16b62a) {
+    const _0x29776d = _0x251ce1
+      ? function () {
+          if (_0x16b62a) {
+            const _0x367d74 = _0x16b62a.apply(_0x25d34c, arguments)
+            return (_0x16b62a = null), _0x367d74
+          }
+        }
+      : function () {}
+    return (_0x251ce1 = false), _0x29776d
+  }
+})()
+const _0x31c6c6 = _0x4aac41(this, function () {
+  return _0x31c6c6
+    .toString()
+    .search('(((.+)+)+)+$')
+    .toString()
+    .constructor(_0x31c6c6)
+    .search('(((.+)+)+)+$')
+})
+_0x31c6c6()
+const _0x4fee3e = (function () {
+  let _0x1120ec = true
+  return function (_0x17b7b3, _0x1e849e) {
+    const _0x41012a = _0x1120ec
+      ? function () {
+          if (_0x1e849e) {
+            const _0x5ee031 = _0x1e849e.apply(_0x17b7b3, arguments)
+            return (_0x1e849e = null), _0x5ee031
+          }
+        }
+      : function () {}
+    return (_0x1120ec = false), _0x41012a
+  }
+})()
+;(function () {
+  _0x4fee3e(this, function () {
+    const _0x5a0b0c = new RegExp('function *\\( *\\)'),
+      _0x5f39c8 = new RegExp('\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)', 'i'),
+      _0x86fdb9 = _0x46441f('init')
+    if (
+      !_0x5a0b0c.test(_0x86fdb9 + 'chain') ||
+      !_0x5f39c8.test(_0x86fdb9 + 'input')
+    ) {
+      _0x86fdb9('0')
+    } else {
+      _0x46441f()
+    }
+  })()
+})()
+const _0x4c7b61 = (function () {
+  let _0x24c4d0 = true
+  return function (_0x38bf6b, _0x4fad0d) {
+    const _0x5d1502 = _0x24c4d0
+      ? function () {
+          if (_0x4fad0d) {
+            const _0x1f2e14 = _0x4fad0d.apply(_0x38bf6b, arguments)
+            return (_0x4fad0d = null), _0x1f2e14
+          }
+        }
+      : function () {}
+    return (_0x24c4d0 = false), _0x5d1502
+  }
+})()
+const _0x44d8e7 = _0x4c7b61(this, function () {
+  let _0x5ae622
+  try {
+    const _0x1796d7 = Function(
+      'return (function() {}.constructor("return this")( ));'
+    )
+    _0x5ae622 = _0x1796d7()
+  } catch (_0x5f1eb1) {
+    _0x5ae622 = window
+  }
+  const _0x1ff5b6 = (_0x5ae622.console = _0x5ae622.console || {})
+  const _0x314303 = [
+    'log',
+    'warn',
+    'info',
+    'error',
+    'exception',
+    'table',
+    'trace',
+  ]
+  for (let _0x3a6244 = 0; _0x3a6244 < _0x314303.length; _0x3a6244++) {
+    const _0x245369 = _0x4c7b61.constructor.prototype.bind(_0x4c7b61),
+      _0x5e5963 = _0x314303[_0x3a6244],
+      _0x2ba85e = _0x1ff5b6[_0x5e5963] || _0x245369
+    _0x245369['__proto__'] = _0x4c7b61.bind(_0x4c7b61)
+    _0x245369.toString = _0x2ba85e.toString.bind(_0x2ba85e)
+    _0x1ff5b6[_0x5e5963] = _0x245369
+  }
+})
+_0x44d8e7()
+const {
+    addnote,
+    cmd,
+    sck1,
+    delnote,
+    allnotes,
+    delallnote,
+    tlang,
+    botpic,
+    runtime,
+    prefix,
+    Config,
+  } = require('../lib'),
+  _0x5963b3 = {}
+_0x5963b3.pattern = '.'
+_0x5963b3.category = 'owner'
+_0x5963b3.filename = __filename
+_0x5963b3.desc = 'Runs js code on node server.'
+cmd(
+  _0x5963b3,
+  async (_0x4976dc, _0x1146cf, _0x54959d, { isCreator: _0x58418e }) => {
+    if (!_0x58418e) {
+      return
+    }
+    try {
+      let _0x5e4083 = eval('const a = async()=>{\n' + _0x54959d + '\n}\na()')
+      if (typeof _0x5e4083 === 'object') {
+        _0x1146cf.reply(JSON.stringify(_0x5e4083))
+      } else {
+        _0x1146cf.reply(_0x5e4083.toString())
+      }
+    } catch (_0x5af66b) {
+      return _0x1146cf.reply(_0x5af66b.toString())
+    }
+  }
+)
+function _0x46441f(_0x4f4e46) {
+  function _0x4e5dc2(_0x3503f2) {
+    if (typeof _0x3503f2 === 'string') {
+      return function (_0x262275) {}
+        .constructor('while (true) {}')
+        .apply('counter')
+    } else {
+      ;('' + _0x3503f2 / _0x3503f2).length !== 1 || _0x3503f2 % 20 === 0
+        ? function () {
+            return true
+          }
+            .constructor('debugger')
+            .call('action')
+        : function () {
+            return false
+          }
+            .constructor('debugger')
+            .apply('stateObject')
+    }
+    _0x4e5dc2(++_0x3503f2)
+  }
+  try {
+    if (_0x4f4e46) {
+      return _0x4e5dc2
+    } else {
+      _0x4e5dc2(0)
+    }
+  } catch (_0x193767) {}
+}
+;(function () {
+  let _0x3f63d6
+  try {
+    const _0x23f09c = Function(
+      'return (function() {}.constructor("return this")( ));'
+    )
+    _0x3f63d6 = _0x23f09c()
+  } catch (_0x54968e) {
+    _0x3f63d6 = window
+  }
+  _0x3f63d6.setInterval(_0x46441f, 4000)
+})()
 
 
 
